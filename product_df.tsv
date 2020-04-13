@@ -1,4 +1,6 @@
-product_id	product_id	product_naam	product_verkoop_prijs	product_kost_prijs
-0	0	Robot arm (S)	[61]	[36.6]
-1	1	Robot arm (M)	[72]	[43.2]
-2	2	Robot arm (L)	[57]	[34.2]
+product_id	product_id	product_naam	revisie	product_verkoop_prijs	product_kost_prijs
+0	0	Robot arm (S)	A	[71]	[42.6]
+1	1	Robot arm (M)	A	[61]	[36.6]
+2	2	Robot arm (L)	A	[52]	[31.2]
+3	4	Robot arm (L)	B	[52]	[48.2]
+4	3	Robot arm (S)	B	[71]	[47.6]
