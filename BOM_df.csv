@@ -1,8 +1,4 @@
-<<<<<<< Updated upstream
-ixs|product_id|product_revisie|BOM_lijn|BOM_hoeveelheid|BOM_eenheid|BOM_onderdeel_id_kind
-=======
 |product_id|product_revisie|BOM_lijn|BOM_hoeveelheid|BOM_eenheid|BOM_onderdeel_id_kind
->>>>>>> Stashed changes
 0|0.0|A|0.0|2.0|stuks|0.0
 1|0.0|A|1.0|2.0|stuks|1.0
 2|0.0|A|2.0|1.0|stuks|2.0
