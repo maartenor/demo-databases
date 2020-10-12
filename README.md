@@ -9,6 +9,7 @@ Secundair doel is dat maak-bedrijven hiermee in kleine, vereenvoudigde context e
 
 De dataset bestaat uit CSV en TSV files. De CSV files zijn te genereren op basis van bijgevoegd jupyter notebook bestand (IPYNB file) en daarmee dus ook aan te passen.
 
+![alt text](https://github.com/maartenor/demo-databases/blob/master/Visualization/demo-databases-demo-0.gif?raw=true)
 
 # Demo-databases for manufacturing (English)
 Searching for some example data for small to medium size businesses in the manufacturing industry, we only encountered complex datasets or those that only existed from 'sales' driven data.
